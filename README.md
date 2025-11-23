@@ -5,13 +5,16 @@
 
 🚀 How to Run This Project
 
-Clone the Repository git clone
+1.Clone the Repository git clone
 https://github.com/negiji892-tech/CSFCP-ASSIGNMENT-.git
 
 
-Open the Folder cd CSF-Assignment04-Portfolio
+2.Open the Folder cd CSF-Assignment04-Portfolio
 
-Run the application: Simply double-click index.html to open it in your default web browser. Alternatively, use the "Live Server" extension in VS Code.
+3.Run the application: Simply double-click index.html to open it in your default web browser. Alternatively, use the "Live Server" extension in VS Code.
 
 📸 Screenshot Deaktop View
-https://github.com/negiji892-tech/CSFCP-ASSIGNMENT-/blob/4bec956e2ed4c84dab52342afe753e35d0ee4150/IMG-20251123-WA0018.jpg
+
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/78c20ed2-a450-499b-b731-3752e4106fb5" />
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/790443d1-85bc-48dc-a776-ebf89ec28941" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/a95695f6-a64e-46fe-927c-e5c4bee5adad" />
